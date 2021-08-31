@@ -8,3 +8,4 @@ https://book.douban.com/subject/10426640/
 https://book.douban.com/subject/25953851/
 #### 深入理解Java虚拟机（第3版）
 https://book.douban.com/subject/6522893/
+#### 实战Java高并发程序设计（第2版）
